@@ -23,4 +23,4 @@ Building off of the work started at the GCC2017 Hackathon, this training will in
 1. Profit!
 
 ### Comments/Requests
-This is intended to be an friendly introduction into using puppet for configuration management of Galaxy systems. If there is something specifically you would like to see, please fire of an email to: <millerjl1701@gmail.com>.
+This is intended to be an friendly introduction into using puppet for configuration management of Galaxy systems. If there is something specifically you would like to see, please fire off an email to: <millerjl1701@gmail.com>.
